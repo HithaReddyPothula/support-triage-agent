@@ -1,0 +1,7 @@
+# Multi-Domain Support Triage Agent
+# Python 3.8+ required
+# No third-party packages needed — uses only Python standard library.
+# The agent uses urllib (built-in) to call the Anthropic API directly.
+
+# If you want to run with the anthropic SDK instead:
+# anthropic>=0.20.0
